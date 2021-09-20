@@ -1,2 +1,2 @@
 # final-project-stige
-Learning Management System
+Learning Management System for internship
